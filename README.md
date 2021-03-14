@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavel Kan, @randol1k
 - 👀 I’m interested in web development and video games
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on areas above
 - 📫 How to reach me: randol1k@mail.ru, Skype: randol1k
 
